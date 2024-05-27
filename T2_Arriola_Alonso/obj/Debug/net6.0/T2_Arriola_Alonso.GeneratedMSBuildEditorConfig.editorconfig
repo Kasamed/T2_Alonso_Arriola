@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = T2_Arriola_Alonso
+build_property.RootNamespace = T2_Arriola_Alonso
+build_property.ProjectDir = E:\Proyectos\T2_Arriola_Alonso\T2_Arriola_Alonso\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Proyectos\T2_Arriola_Alonso\T2_Arriola_Alonso
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Distribuidor/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Distribuidor/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Distribuidor/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXEVsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Distribuidor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Home/DistribuidorInternacional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXN0cmlidWlkb3JJbnRlcm5hY2lvbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Home/DistribuidorNacional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXN0cmlidWlkb3JOYWNpb25hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyectos/T2_Arriola_Alonso/T2_Arriola_Alonso/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nsyv1dni0s

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\T2_Arriola_Alonso.props" />
+</Project>
